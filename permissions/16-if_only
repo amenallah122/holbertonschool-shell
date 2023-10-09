@@ -1,2 +1,2 @@
 #!/bin/bash
-if su=guillaume : chown vincent hello
+shown -R --from=guillaume vincent .
