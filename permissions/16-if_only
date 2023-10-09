@@ -1,2 +1,2 @@
 #!/bin/bash
-if su=guillaume then chown vincent hello
+if su=guillaume : chown vincent hello
