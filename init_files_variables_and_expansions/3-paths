@@ -1,2 +1,2 @@
 #!/bin/bash
-tr : \n | wc -l
+echo tr : \n | wc -l
